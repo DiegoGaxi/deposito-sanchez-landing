@@ -1,0 +1,1 @@
+{"name": "Depósito Sánchez", "short_name": "Sánchez", "description": "Gestión multi-sucursal de depósitos de cerveza", "start_url": "/deposito-sanchez-landing/app/", "display": "standalone", "background_color": "#0D1119", "theme_color": "#0D1119", "lang": "en", "scope": "/deposito-sanchez-landing/app/", "icons": [{"src": "favicon.svg", "sizes": "any", "type": "image/svg+xml"}]}
